@@ -12,7 +12,7 @@ This program runs on javascript with a multitude of loops and functions. Each us
 
 FINAL PRODUCT
 
-![](/images/Screen%20Shot%202022-06-15%20at%208.02.23%20PM.png)
+![](/assets/images/Screen%20Shot%202022-06-15%20at%208.02.23%20PM.png)
 
 LINK
 
